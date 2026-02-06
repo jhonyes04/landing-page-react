@@ -30,7 +30,6 @@ const cards = [
 export const Cards = () => {
     return (
         <div className="container">
-            {/* <div className="row">{cardsRender()}</div> */}
             <div className="row">
                 {cards.map((card, index) => (
                     <div

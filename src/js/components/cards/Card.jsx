@@ -1,5 +1,3 @@
-import React from 'react';
-
 export const Card = ({ card: { imagen, titulo, descripcion } }) => {
     return (
         <div className="card my-4">
