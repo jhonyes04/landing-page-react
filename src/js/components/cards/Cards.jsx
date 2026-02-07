@@ -23,7 +23,7 @@ const cards = [
         imagen: 'https://picsum.photos/500/325?random=4',
         titulo: 'Título 4',
         descripcion:
-            'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia necessitatibus eum expedita ipsa, accusantium error.',
+            'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur necessitatibus eos praesentium, maiores deserunt veniam.',
     },
 ];
 
